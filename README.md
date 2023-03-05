@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurimas</h1>
 <h3 align="center">A passionate full stack developer from Lithuania</h3>
 
-- 🔭 I’m currently working on **a mental health application**
+- 🔭 I’m currently working on **a mental health application** and a **rental property management system**
 
 - 🌱 I’m currently learning **NodeJS, Express, Cypress and Typescript**
 
