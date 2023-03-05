@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurimas</h1>
-<h3 align="center">A passionate full stack developer from Lithuania</h3>
+<h3 align="center">A passionate frontend developer from Lithuania</h3>
 
 - 🔭 I’m currently working on **a mental health application** and a **rental property management system**
 
