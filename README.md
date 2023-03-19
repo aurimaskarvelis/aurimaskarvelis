@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aurimas</h1>
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 
-- 🔭 I’m currently working on **a mental health application** and a **rental property management system**
-
 - 🌱 I’m currently learning **NodeJS, Express, Cypress and Typescript**
 
 - 📫 How to reach me **aurimas.karvelis01@gmail.com**
